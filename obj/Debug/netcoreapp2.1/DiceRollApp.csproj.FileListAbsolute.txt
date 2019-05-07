@@ -1,0 +1,11 @@
+C:\Users\vell6\source\repos\DiceRollApp\DiceRollApp\bin\Debug\netcoreapp2.1\DiceRollApp.deps.json
+C:\Users\vell6\source\repos\DiceRollApp\DiceRollApp\bin\Debug\netcoreapp2.1\DiceRollApp.runtimeconfig.json
+C:\Users\vell6\source\repos\DiceRollApp\DiceRollApp\bin\Debug\netcoreapp2.1\DiceRollApp.runtimeconfig.dev.json
+C:\Users\vell6\source\repos\DiceRollApp\DiceRollApp\bin\Debug\netcoreapp2.1\DiceRollApp.dll
+C:\Users\vell6\source\repos\DiceRollApp\DiceRollApp\bin\Debug\netcoreapp2.1\DiceRollApp.pdb
+C:\Users\vell6\source\repos\DiceRollApp\DiceRollApp\obj\Debug\netcoreapp2.1\DiceRollApp.csprojAssemblyReference.cache
+C:\Users\vell6\source\repos\DiceRollApp\DiceRollApp\obj\Debug\netcoreapp2.1\DiceRollApp.csproj.CoreCompileInputs.cache
+C:\Users\vell6\source\repos\DiceRollApp\DiceRollApp\obj\Debug\netcoreapp2.1\DiceRollApp.AssemblyInfoInputs.cache
+C:\Users\vell6\source\repos\DiceRollApp\DiceRollApp\obj\Debug\netcoreapp2.1\DiceRollApp.AssemblyInfo.cs
+C:\Users\vell6\source\repos\DiceRollApp\DiceRollApp\obj\Debug\netcoreapp2.1\DiceRollApp.dll
+C:\Users\vell6\source\repos\DiceRollApp\DiceRollApp\obj\Debug\netcoreapp2.1\DiceRollApp.pdb
